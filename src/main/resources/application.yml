@@ -1,0 +1,16 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIA3WNJT4ZSTUNKZVUJ 
+      secret-key: 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
+    region:      static: us-east-2  
+    stack:      auto: false
+
+      
+      
+      
+spring:  data:    couchbase:      bucket-name: chidovstorages      
+      
+      
+      
+         
